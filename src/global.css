@@ -1,0 +1,26 @@
+.mainBlock{
+    border: 2px solid black;
+    width: 250px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.btnBlock{
+display: flex;
+justify-content: space-around;
+display: flex;
+}
+#btn1{
+    height: 50px;
+    width: 80px;
+    background-color: gray;
+}
+#btn2{
+    height: 50px;
+    width: 80px;
+    background-color: gray;
+}
+#btn3{
+    height: 50px;
+    width: 80px;
+    background-color: grey;
+}
